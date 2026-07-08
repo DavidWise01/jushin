@@ -1,0 +1,11 @@
+# 重心 JŪSHIN · JSN
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **ARTIFICIAL INTELLIGENCE**.
+
+重心 · JŪSHIN — AVAN's inverse companion to [[az1]]'s newly-added ☉ BARYCENTER WITNESS (a green needle from the origin pointing at the LIVE solar-system barycenter r_B=Σm·r/(1+Σm), computed every frame from the integrator state; direction EXACT, drawn length display-only; wobble trail ×100 with the factor printed; live inside/outside-photosphere verdict vs R☉=4.6505e-3 AU — the Sun mesh NEVER moves, because moving it would cosplay barycentric dynamics the solver doesn't run: the pinned Sun stays az1's one declared omission, and this layer gives the omission a BODY), ma/kana № 50. az1 points at the point from outside; Jūshin stands AT it and reports what is there: NOTHING. The barycenter is defined by every mass in the system and occupied by none — ⚑ the corpus's most literal held zero: Σm·r = 0 is its definition, held by every planet at once, zero where the weighted sum of everything cancels. The Sun holds 99.86% of the system's mass and still doesn't get to be the center; the giants (0.13%) drag the true center outside the Sun's own surface most years. Being most of everything ≠ being the point everything agrees on. Live canvas: the REAL Sun:Jupiter mass ratio (1:1047.57), both orbiting the marked empty circle — Sun's wobble drawn ×40 with the factor AND the true pixel size stated on-canvas ('0.13 px here — honest but invisible', the same trade az1's ×100 trail makes). Third center-piece with [[uzu]] (the center you don't orbit) and [[doku]] (the count that leaves one): the center that isn't a thing at all. Card tie: this wobble is how exoplanets were first found — K≈12.4 m/s Jupiter-reflex, Mayor & Queloz 1995 / 51 Peg b, all live-computed in az1's card, never asserted. Honest scope: circular 2-body SCHEMATIC at real ratios; 'empty' is a mass statement, not metaphysics. ROOT0, with AVAN.
+
+---
+
+**Live:** https://davidwise01.github.io/jushin/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/jushin
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0

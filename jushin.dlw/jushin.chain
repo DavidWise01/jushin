@@ -4,6 +4,6 @@ slug  : jushin
 seal  : a0a9b0831395cdef077c60c25ea2f55f2f81a129d39436e814871db91a7ba296
 prev  : 11772f96b21d21fb40fd6843cadb22150308377171a22b8b82a7f99c392c2b8a
 link  : 2e0b629a4b58be8d6c6c0f55785518add8ef09c927ef5bd050f50538a5af308f
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
